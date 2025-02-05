@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35731.43 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceAuthTest", "DeviceAuthTest.csproj", "{DCC0517F-04CE-4754-AE76-0D924B30D853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC0517F-04CE-4754-AE76-0D924B30D853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC0517F-04CE-4754-AE76-0D924B30D853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC0517F-04CE-4754-AE76-0D924B30D853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC0517F-04CE-4754-AE76-0D924B30D853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A9BC0F2-120F-4693-B871-BC00CD29F088}
+	EndGlobalSection
+EndGlobal
